@@ -1,4 +1,8 @@
 _repo: The-Boy-Hunters-of-Kentucky_49143
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49143-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49143#The-Boy-Hunters-of-Kentucky
 gutenberg_issued: '2015-06-05'
 gutenberg_type: Text
 identifiers:
